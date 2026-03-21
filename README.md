@@ -1,3 +1,5 @@
+![GitHub License](https://img.shields.io/github/license/diegoog26/hub-links?style=for-the-badge)
+
 # IFixTec Tecnologia - Sistema de Gestão
 
 ## 📖 Sobre o projeto
