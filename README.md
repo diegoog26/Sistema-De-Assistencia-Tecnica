@@ -2,6 +2,8 @@
 
 # IFixTec - Sistema de Gestão de clientes
 
+![InterfaceSistema](https://github.com/user-attachments/assets/e567592d-53b2-470a-b2e0-1a6af323a2b4)
+
 ## 📖 Sobre o projeto
 Este projeto foi desenvolvido como uma aplicação desktop voltada para a gestão de serviços da empresa **IFixTec Tecnologia**.
 
@@ -52,7 +54,7 @@ O sistema utiliza MySQL para armazenamento das informações.
 
 ## 📌 Status do projeto
 
-🚧 Em desenvolvimento  
+✅ Finalizado 
 
 ---
 
